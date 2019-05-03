@@ -261,6 +261,16 @@
             <path>
               <item name="LicenseManager" type="b2602c69:ProjectViewProjectNode" />
               <item name="LicenseManager" type="462c0819:PsiDirectoryNode" />
+              <item name="public" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LicenseManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LicenseManager" type="462c0819:PsiDirectoryNode" />
+              <item name="resources" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="LicenseManager" type="b2602c69:ProjectViewProjectNode" />
+              <item name="LicenseManager" type="462c0819:PsiDirectoryNode" />
               <item name="routes" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
@@ -311,7 +321,7 @@
       <workItem from="1556767047184" duration="1394000" />
       <workItem from="1556783187818" duration="599000" />
       <workItem from="1556855814292" duration="1805000" />
-      <workItem from="1556863575954" duration="614000" />
+      <workItem from="1556863575954" duration="1352000" />
     </task>
     <task id="LOCAL-00001" summary="initial commit">
       <created>1556857137036</created>
@@ -324,7 +334,7 @@
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="19427000" />
+    <option name="totallyTimeSpent" value="20165000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
