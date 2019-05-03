@@ -7,6 +7,7 @@ Admin panel by Voyager - The Missing Laravel Admin https://laravelvoyager.com
 <br>
 <h2>Login</h2>
 user: admin@admin.com
+<br>
 pw: asd@1234
 
 <br>
