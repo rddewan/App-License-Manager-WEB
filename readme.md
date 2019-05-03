@@ -2,6 +2,10 @@ App License Manage: Simple Laravel API to manage app license.
 REST API Server for Android app to register app license
 <br>
 Admin panel by Voyager - The Missing Laravel Admin https://laravelvoyager.com
+<br>
+<h3>Android client</h3>
+<br>
+https://github.com/rddewan/App-License-Manager-Android
 
 <br>
 <br>
